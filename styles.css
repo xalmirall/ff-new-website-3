@@ -190,6 +190,10 @@ li {
         padding: 0px 5px; /* Further adjusted padding for smaller screens */
     }
 
+    .portada {
+        margin-bottom: -30px;
+    }
+
     .portada img {
         object-position: 57% 0
     }
