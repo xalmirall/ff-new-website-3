@@ -108,14 +108,18 @@ li {
 }
 
 .social {
-    display: flex;
-    align-items: center;
-    gap: 36px;
+    display: block;
+    margin: 0 auto;
 }
 
 .social img:hover {
     cursor: pointer;
     opacity: 0.8;
+}
+
+.social-icons {
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 /* hover effects for album covers */
