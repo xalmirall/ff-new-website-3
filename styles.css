@@ -109,7 +109,7 @@ li {
 
 .social {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     gap: 36px;
 }
 
@@ -190,7 +190,6 @@ li {
         object-position: 57% 0
     }
 
-    .discografia,
     .footer {
         padding: 20px 10px; /* Further adjusted padding for smaller screens */
     }
